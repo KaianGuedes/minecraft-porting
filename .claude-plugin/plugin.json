@@ -1,0 +1,10 @@
+{
+  "name": "minecraft-porting",
+  "version": "0.1.0",
+  "description": "Port Minecraft mods and plugins between loaders, versions and platforms (Forge, NeoForge, Fabric, Bukkit/Spigot/Paper), with licensing checks, API maps, version pitfalls, verification harnesses and publishing guidance.",
+  "author": { "name": "KaianGuedes", "url": "https://github.com/KaianGuedes" },
+  "homepage": "https://github.com/KaianGuedes/minecraft-porting",
+  "repository": "https://github.com/KaianGuedes/minecraft-porting",
+  "license": "MIT",
+  "keywords": ["minecraft", "modding", "porting", "fabric", "neoforge", "forge", "paper", "spigot", "bukkit", "plugin"]
+}

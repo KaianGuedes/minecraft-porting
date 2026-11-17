@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-porting",
+  "owner": {
+    "name": "KaianGuedes"
+  },
+  "metadata": {
+    "description": "Claude skills for Minecraft mod and plugin porting."
+  },
+  "plugins": [
+    {
+      "name": "minecraft-porting",
+      "source": "./",
+      "description": "A Claude skill for porting and building Minecraft mods and plugins across loaders, versions and platforms."
+    }
+  ]
+}
